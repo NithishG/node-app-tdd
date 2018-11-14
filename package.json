@@ -1,0 +1,20 @@
+{
+  "name": "node-tdd",
+  "version": "1.0.0",
+  "description": "node express app using TDD",
+  "main": "server.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "istanbul": "^0.4.5",
+    "mongoose": "^5.3.8",
+    "proxyquire": "^2.1.0",
+    "request": "^2.88.0",
+    "supertest": "^3.3.0"
+  }
+}
