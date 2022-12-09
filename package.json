@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.18.3",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "istanbul": "^0.4.5",
     "mongoose": ">=5.7.5",
     "proxyquire": "^2.1.0",
